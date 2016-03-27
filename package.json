@@ -1,0 +1,19 @@
+{
+  "name": "testcodeship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fen555/testCodeship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fen555/testCodeship/issues"
+  },
+  "homepage": "https://github.com/fen555/testCodeship#readme"
+}
